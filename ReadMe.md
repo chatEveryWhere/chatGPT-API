@@ -46,6 +46,8 @@ headers = {
 
 response = requests.get(url, headers=headers)
 print(response.json())
+
+```
 ### API文档
 
 详细的使用指南请访问我们的[API文档](https://gpt-best.apifox.cn/doc-3530850)。
